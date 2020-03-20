@@ -1,3 +1,3 @@
 # FlaskDatabase
 
-Database created using Flask and Postman and executed CURA operations. 
+Database created using Flask and Postman and executed CRUD operations. 
